@@ -18,7 +18,7 @@ scheduling algorithm based on queuing fcfs,rr and many more
 
 producer consumer problem 
 
-labq2.c is chopstick problem
+lab5_Q2.c is chopstick problem
 
-labq1.cpp is reader witer problem
+lab5_Q1.cpp is reader witer problem
 
