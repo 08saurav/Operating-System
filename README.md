@@ -8,3 +8,6 @@ codes of various algorithm of operating system
 //2_lab2.cpp is again based on fork system call and pipe
 
 
+code is based on banker algorithm
+
+
