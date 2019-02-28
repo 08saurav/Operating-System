@@ -22,3 +22,6 @@ lab5_Q2.c is chopstick problem
 
 lab5_Q1.cpp is reader witer problem
 
+
+2_lab4,2_lab4b,2_lab4c,2_lab4d,2_lab4e have synchronisation problems algorithm of test and set,semaphore wait and signal,lock and unlock problem etc.
+
