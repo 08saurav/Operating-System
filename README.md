@@ -11,5 +11,8 @@ codes of various algorithm of operating system
 code is based on banker algorithm
 
 
-multilevel queuing algorithm code
+multilevel queuing algorithm code 
+
+
+scheduling algorithm based on queuing fcfs,rr and many more
 
